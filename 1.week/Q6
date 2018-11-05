@@ -1,0 +1,10 @@
+Q6
+
+a='Ahmet'
+b='Yılmaz'
+array_1=['Ahmet','Yılmaz']
+array_2=['a','b']
+array_1=array_2
+
+array_3=['b','a']
+print(array_3)
